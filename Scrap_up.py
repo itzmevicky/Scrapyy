@@ -105,5 +105,5 @@ if __name__ == "__main__":
 
 
 print(dataframe)
-dataframe.to_csv('1mg.csv')
+dataframe.to_csv('output.csv')
 
